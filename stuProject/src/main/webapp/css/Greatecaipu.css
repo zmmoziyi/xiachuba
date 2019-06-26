@@ -1,0 +1,207 @@
+.page-rigth{
+    width: 310px;
+    height: 700px;
+    float: right;
+    margin-top: -46%
+}
+.page-rigth .title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #c0ae7d;
+}
+.page-rigth .content{
+    font-size: 14px;
+    color: #909090;
+    margin-top: 10%;
+}
+.page-rigth .top {
+    margin: -30% 12%;
+}
+.center-1{
+    width: 100%;
+    height: 17%;
+    margin-top: 113px;
+    padding: 16px 20px 40px;
+    margin-bottom: 40px;
+}
+.center-2{
+    width: 100%;
+    margin-top: 47px;
+    padding: 16px 20px 40px;
+    margin-bottom: 30px;
+}
+.center-3{
+    width: 100%;
+    padding: 16px 20px 40px;
+}
+.center-3 span{color: red;float: right;}
+.center-4{
+    width: 100%;
+    padding: 16px 20px 40px;
+}
+.text {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    float: left;
+    margin-top: 32%;
+    margin-left: 40%;
+}
+.text .menu-image{
+    font-size: 13px;
+    padding: 5px;
+    color: #909090;
+}
+.text .size{
+    font-size: 12px;
+    color: #b6b2ae;
+}
+
+.file-box {
+    width: 658px;
+    height: 488px;
+    background-color: #cac6c238;
+}
+.file-1{
+    width: 653px;
+    height: 480px;
+    margin-top: -410%;
+}
+.first-file{
+    width: 10%;
+    height: 10%;
+}
+.myfile{
+    overflow: hidden;
+    opacity: 0;
+    -ms-filter: 'alpha(opacity=0)';
+}
+.author img{
+    width:60px;
+    height:60px;
+    margin-top: 30px!important;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    -webkit-box-shadow: 3px 6px 25px #c3c3c3;
+    -moz-box-shadow: 3px 6px 25px #c3c3c3;
+    box-shadow: 3px 6px 25px #c3c3c3;
+    margin: 0 4px 0 0;
+}
+.author .Username{
+    color: #666666;
+    margin-left: 10%;
+    margin-top: -5%;
+}
+.describe{
+    margin-top: 25px!important;
+    width: 666px;
+    height: 116px;
+}
+.center-c{
+    margin-top: 5%;
+    width: 658px;
+    height:10%;
+}
+.center-c h2{
+    font-weight: 700;
+    color: #c0ae7d;
+}
+.f-table table td input{
+    width:50px;
+    height: 50px;
+}
+.text-\#{
+    float: right;
+    margin-right: 5%;
+    margin-top: 3%;
+    font-size: 16px;
+    color: #909090;
+}
+.c-foot-1{
+    width: 50%;
+    height: 15px;
+}
+.up li{list-style: none;float: left}
+.up{float: left;margin-left: 11%;margin-top: -10%}
+.file-2{
+    width: 127px;
+    height: 40px;
+    float: left;
+    margin-top: -11%;
+    margin-left: 11%;
+}
+.c-num{
+    width: 20px;
+    float: left;
+    margin-top: -3%;
+    color: #c0ae7d;
+}
+.c-1-left{
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+.c-1-right{
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 22%;
+}
+.drop{
+    width: 3%;
+    height: 40%;
+    margin-top: 4%;
+    float: left;
+    margin-left: 11%;
+}
+.file-3{
+    width: 273px;
+    height: 300px;
+    float: left;
+    margin-top: -49%;
+    background-color: #666666;
+}
+.text-1 {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    float: left;
+    margin-top: 56%;
+    margin-left: 35%;
+}
+.text-1 .b-image{
+    font-size: 13px;
+    padding: 5px;
+    color: #909090;
+}
+.text-1 .b-size{
+    font-size: 12px;
+    color: #b6b2ae;
+}
+.c-foot-3{
+    width: 100%;
+    float: left;
+    padding: 2% 0%;
+}
+.tips{
+    width: 600px;
+    height: 10%;
+    margin-top: 10%;
+}
+.step{
+    width: 664px;
+    float: left;
+}
+.c-foot-2{
+    width: 664px;
+    float: left;
+}
+.c-foot-4{
+    width: 664px;
+    float: left;
+}
+.c-foot-5{
+    width: 664px;
+    float: left;
+}

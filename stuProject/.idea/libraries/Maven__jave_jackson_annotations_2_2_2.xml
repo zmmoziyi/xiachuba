@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jave:jackson-annotations:2.2.2">
+    <CLASSES>
+      <root url="jar://F:/MavenSetting/.m2/repository/jave/jackson-annotations/2.2.2/jackson-annotations-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/MavenSetting/.m2/repository/jave/jackson-annotations/2.2.2/jackson-annotations-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/MavenSetting/.m2/repository/jave/jackson-annotations/2.2.2/jackson-annotations-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
